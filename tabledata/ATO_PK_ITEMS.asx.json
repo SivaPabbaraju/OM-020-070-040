@@ -1,0 +1,18 @@
+[
+ {
+  "table":"ATO_PK_ITEMS",
+  "data":
+  [
+   {
+    "ITEM_TYPE":"CFDF",
+    "ITEM_ID":"ZZ1_LEGACYREFERENCE",
+    "CHANGED_BY":"VAMSIKRISHNA",
+    "CHANGE_REASON":"",
+    "ITEM_DESCRIPTION":"ZZ1_LegacyReference",
+    "ITEM_STATUS":"C",
+    "LAST_NOTIFICATION":"+020250529170301",
+    "PREFIX":"ZZ1_"
+   }
+  ]
+ }
+]
